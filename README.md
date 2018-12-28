@@ -1,10 +1,10 @@
-# welcome bot: A Probot App
+# welcome bot: A Probot A
 
-DESCRIPTION PLACEHOLDER
+hyper text marku language
 
 ## What it does
 
-FEATURES PLACEHOLDER
+cascading styling sheets
 
 ## Getting started
 
